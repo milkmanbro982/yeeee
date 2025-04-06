@@ -1,0 +1,10 @@
+
+title: My Gacha Site
+description: A simple gacha system using slot-style animation
+theme: null
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
